@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="medical.visit.app"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="16" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/doctor"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="medical.visit.app.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.PatientList"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.PATIENTLIST" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.CreatePatient"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.CREATEPATIENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.PatientId"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.PATIENTID" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.History"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.HISTORY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.PatientObservation"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.PATIENTOBSERVATION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.PoliclinicControl"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.POLICLINICCONTROL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.InspectionFilling"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.INSPECTIONFILLING" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.DailyFilling"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.DAILYFILLING" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.PatientIdDetail"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.PATIENTIDDETAIL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.ChoiceList"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.CHOICELIST" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.Observation"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.OBSERVATION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.ObsItem"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.OBSITEM" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.ObservationDetail"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.OBSERVATIONDETAIL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="medical.visit.app.HistoryDetail"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.HISTORYDETAIL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

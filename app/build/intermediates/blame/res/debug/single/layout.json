@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inspection_filling.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\src\\main\\res\\layout\\inspection_filling.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create_patient.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\src\\main\\res\\layout\\create_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\patientlist.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\src\\main\\res\\layout\\patientlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\patient_obs.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\src\\main\\res\\layout\\patient_obs.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\patientid_empty.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\src\\main\\res\\layout\\patientid_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\policlinic_control.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\src\\main\\res\\layout\\policlinic_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daily_filling.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\src\\main\\res\\layout\\daily_filling.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history.xml",
+        "source": "C:\\Users\\zisan\\AndroidStudioProjects\\VisitApp\\app\\src\\main\\res\\layout\\history.xml"
+    }
+]
